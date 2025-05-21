@@ -24,6 +24,7 @@ https://github.com/Sangeetha1208/World-Tourism-Website/blob/5a30c59702d7cfc3eceb
 https://github.com/Sangeetha1208/World-Tourism-Website/blob/5447ed962ed6c726c46a433ee479e7736b17fa27/learn%20more%20(5).png
 https://github.com/Sangeetha1208/World-Tourism-Website/blob/bd0c507bb9c557252b435ce8bda8d8b617a6ad42/learn%20more%20(6).png
 https://github.com/Sangeetha1208/World-Tourism-Website/blob/d1db414a4d4af693f2c9747f1427c13259e09961/learn%20more%20(7).png
+https://github.com/Sangeetha1208/World-Tourism-Website/blob/3c2d154d952c7963ab9ea744857129f2b5b8f001/learn%20more%20(8).png
 
 
 
