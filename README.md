@@ -17,6 +17,7 @@ Currently, this project is still in development. New features are being planned,
 In summary, the World Tourism Website is a simple but effective static website project that covers essential pages required for a tourism service. It demonstrates the power of HTML and CSS in creating useful and visually appealing web experiences. This project can be used as a foundation for further development or as a learning tool for aspiring web developers.
 
 https://github.com/Sangeetha1208/World-Tourism-Website/blob/f01e02eb8c6a45db98cdfcefcc2908dd3084dd3f/home.png
+https://github.com/Sangeetha1208/World-Tourism-Website/blob/93bf28a3c7098b61efbb29cd24d98485a56c08ef/learn%20more.png
 
 
 
