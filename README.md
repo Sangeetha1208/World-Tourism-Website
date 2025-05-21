@@ -18,6 +18,7 @@ In summary, the World Tourism Website is a simple but effective static website p
 
 https://github.com/Sangeetha1208/World-Tourism-Website/blob/f01e02eb8c6a45db98cdfcefcc2908dd3084dd3f/home.png
 https://github.com/Sangeetha1208/World-Tourism-Website/blob/93bf28a3c7098b61efbb29cd24d98485a56c08ef/learn%20more.png
+https://github.com/Sangeetha1208/World-Tourism-Website/blob/ef95ade9ea6aca3bc3297f92ad3d16c9ac7be68a/learn%20more%20(2).png
 
 
 
